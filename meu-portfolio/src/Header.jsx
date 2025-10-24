@@ -2,12 +2,12 @@ function Header()
 {
     return (
         <header>
-            <h1>Neguin rebola gostoso pros cria</h1>
+            <h1> Repositório: Kenzo Osako </h1>
             <nav>
                 <ul>
-                    <a href="#sobre">Pdiddy </a>
-                    <a href="#projetos">Pdaddy </a>
-                    <a href="#contato">Damer </a>
+                    <a href="#sobre">Sobre </a>
+                    <a href="#projetos">Projetos </a>
+                    <a href="#contato">Contato </a>
                 </ul>
             </nav>
         </header>

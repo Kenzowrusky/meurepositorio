@@ -3,7 +3,7 @@ function Footer()
     return (
         <footer>
             <p>
-                Desenvolvido por Osako Kenzo - 1945
+                Desenvolvido por Osako Kenzo - 2025
             </p>
         </footer>
     )
